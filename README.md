@@ -1,3 +1,5 @@
+[![Build Status](https://dev.azure.com/tyvitumake/Configuring%20Agent%20Pools%20and%20Understanding%20Pipeline%20Styles/_apis/build/status/BasalGanglia.calculator?branchName=refs%2Fpull%2F1%2Fmerge)](https://dev.azure.com/tyvitumake/Configuring%20Agent%20Pools%20and%20Understanding%20Pipeline%20Styles/_build/latest?definitionId=8&branchName=refs%2Fpull%2F1%2Fmerge)
+
 Calculator.js: a node.js Demonstration Project
 ==============================================
 An example node.js project, including tests with mocha, that behaves like
